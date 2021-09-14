@@ -1,0 +1,2 @@
+# NBA_Shot_Data
+Python program that prompts user for a name of an NBA player and a season after 1996, and returns a scatter plot visualization of where every shot by that player for that season was taken from on the court, as well as whether the shot went in or not. Data was scraped from basketball-reference using Selenium, and data extraction and visualization was done using pandas and seaborn Python libraries
